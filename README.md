@@ -7,4 +7,4 @@ I plan to build this out to contain helpful how to's for various development top
 
 It would be great for others to contribute by way of topics or amendments where necessary.
 
-Click **Wiki** in the nav bar to begin
+Click [**Wiki**](https://github.com/eodeluga/dev-notes/wiki) in the nav bar to begin
